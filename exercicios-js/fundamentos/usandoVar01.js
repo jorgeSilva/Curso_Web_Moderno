@@ -1,5 +1,4 @@
-{{{ var sera = 'Será?'}}}
-
+{{{ var sera = 'Será??'}}}
 console.log(sera)
 
 {
